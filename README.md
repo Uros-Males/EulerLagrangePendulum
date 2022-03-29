@@ -5,3 +5,4 @@ real length of pendulum) - we sketch the graphs of trajectory, graphs of vertica
 Then, we allow for an external force, whose moment is given first as a sinusoidal function of time and then as a square-wave function. We sketch the same graphs as in 
 aforementioned case. 
 Finally, for second case, we analyze amplitude characteristics of pendulum trajectory and notice expected effects (such as resonance, for example).
+All of the above mentioned analysis is done using Euler-Lagrange equations as well as Rayleigh dissipation function.
